@@ -1,5 +1,5 @@
-How to create custom own application
-====================================
+How to create custom rpm for your application
+=============================================
 1. Install the development environment
    yum install -y rpmdevtools rpmlint
 
