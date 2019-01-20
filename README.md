@@ -3,7 +3,9 @@ How to create custom rpm for your application
 1. Install the development environment
    yum install -y rpmdevtools rpmlint
 
-2. Creat folder structure
+2. Creat folder structure by running below command
+   rpmdev-setuptree
+
    mkdir myscript-1.0/
    vim myscript-1.0/myscript.sh
    Edit the myscript.sh with content
