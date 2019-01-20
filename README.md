@@ -1,3 +1,8 @@
+Fallowed a link
+===============
+
+https://rogerwelin.github.io/rpm/rpmbuild/2015/04/04/rpmbuild-tutorial-part-1.html
+
 How to create custom rpm for your application
 =============================================
 1. Install the development environment
