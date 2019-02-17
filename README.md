@@ -32,6 +32,8 @@ How to create custom rpm for your application
 6. Execute the script by running below script installed from above rpm
    /opt/myscript/myscript.sh 
    Output: Hello It's my first rpm!!!
+   
+   ===============================================================================================================
 
    
 
